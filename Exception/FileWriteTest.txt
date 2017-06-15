@@ -1,0 +1,1 @@
+X is 100 and y is 0 where x / y is Infinity
