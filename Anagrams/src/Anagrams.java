@@ -40,9 +40,6 @@ public class Anagrams {
         else
             System.out.println("Not Anagrams");
 
-        List<ArrayList<Integer>> ans = new ArrayList<>();
-        List<Integer> a = new ArrayList<>();
-        a.
 
     }
 }
